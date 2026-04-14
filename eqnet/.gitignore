@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS / VSCode
+.vs/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Dotnet publish output
+publish/
+
+# Environment files (VERY IMPORTANT)
+appsettings.Development.json
+appsettings.*.json
+
+# Secrets
+secrets.json
+*.pfx
+*.key
+
+# EF Core migrations temp files
+Migrations/*Designer.cs
+eqnet.Tests
+# OS files
+.DS_Store
+Thumbs.db
